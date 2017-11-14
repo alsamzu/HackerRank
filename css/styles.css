@@ -4,3 +4,17 @@ h1{
 }
 
 #first{ background-color: antiquewhite;}
+
+#second{ background-color: darkred;}
+#cofirst{
+    background-color: #FEFF9E;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#red{
+    color: red;
+    font-family: 'Berkshire Swash', cursive;
+}
+h4{
+    font-family: 'Ranga', cursive;
+}
