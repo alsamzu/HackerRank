@@ -1,20 +1,13 @@
-h1{
-    font-family: 'Lobster', cursive;
-    color: #780C00;
+html,body{
+    margin: 0;
+    padding: 0;
 }
 
-#first{ background-color: antiquewhite;}
-
-#second{ background-color: darkred;}
-#cofirst{
-    background-color: #FEFF9E;
-    font-family: 'Roboto', sans-serif;
-    
-}
-#red{
-    color: red;
-    font-family: 'Berkshire Swash', cursive;
-}
-h4{
-    font-family: 'Ranga', cursive;
+.backgroundimg{
+    background-image: url("/img/bhushan-sadani-157723.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
 }
