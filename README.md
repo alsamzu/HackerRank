@@ -1,5 +1,5 @@
-# coffeeCup
-A landing page for a coffee shop that allows customers to view their menu and make orders online.
+# HackerRank
+A landing page for a hackers academy
 ### Technology used
 the technology used in this project was:
 
@@ -11,3 +11,5 @@ the technology used in this project was:
 animate.css
 ### Images used are from:
 Images used are from https://unsplash.com
+### icons
+Font awsome
