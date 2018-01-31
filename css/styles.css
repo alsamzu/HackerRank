@@ -1,5 +1,5 @@
 .backgrnd{
-   background-color: burlywood;
+   background: url("/img/bhushan-sadani-157723.jpg") ;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -12,10 +12,22 @@
 }
 .container{
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    background-color: red;
+    flex-direction: row;
+    align-content: flex-start;
+   color: #9e9e9e;
+    
+    height: 80vh;
 }
+
+#en{
+    align-self:flex-end;
+}
+h1{
+    font-size: 4em;
+    color: white;
+}
+
+
 /*
 #frexx{
     display: flex;
