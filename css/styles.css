@@ -14,17 +14,21 @@
     display: flex;
     flex-direction: row;
     align-content: flex-start;
-   color: #9e9e9e;
-    
-    height: 80vh;
+   color: #bdbdbd;
+    font-family: 'Rajdhani', sans-serif;
+    height: 90vh;
 }
 
 #en{
     align-self:flex-end;
 }
 h1{
-    font-size: 4em;
+    font-size: 5em;
     color: white;
+}
+span{
+    color: white;
+    font-weight: bold;
 }
 
 
