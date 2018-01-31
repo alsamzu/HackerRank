@@ -30,7 +30,16 @@ span{
     color: white;
     font-weight: bold;
 }
-
+.backgrnd2{
+    background: url("/img/bhushan-sadani-157723.jpg") ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    
+    transition: .5s ease-in-out;
+}
 
 /*
 #frexx{
