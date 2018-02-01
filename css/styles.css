@@ -1,3 +1,4 @@
+
 .backgrnd{
    background: url("/img/bhushan-sadani-157723.jpg") ;
     background-size: cover;
@@ -17,14 +18,22 @@
    color: #bdbdbd;
     font-family: 'Rajdhani', sans-serif;
     height: 90vh;
+    justify-content: flex-start;
 }
 
 #en{
     align-self:flex-end;
+    
 }
 h1{
     font-size: 5em;
     color: white;
+}
+#logo{
+    font-family: 'Rammetto One', cursive;
+    align-self: center;
+    color: white;
+    align-self:flex-end;
 }
 span{
     color: white;
