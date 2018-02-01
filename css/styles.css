@@ -23,6 +23,7 @@
 
 #en{
     align-self:flex-end;
+    margin-left: -125px;
     
 }
 h1{
@@ -40,7 +41,7 @@ span{
     font-weight: bold;
 }
 .backgrnd2{
-    background: url("/img/bhushan-sadani-157723.jpg") ;
+    background: url("/img/jonas-jacobsson-338014.jpg") ;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -48,6 +49,11 @@ span{
     height: 100vh;
     
     transition: .5s ease-in-out;
+}
+#hello{
+    font-size: 4em;
+    color: white;
+    margin: -75px;
 }
 
 /*
