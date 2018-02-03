@@ -1,11 +1,32 @@
-
-.backgrnd{
-   background: url("/img/bhushan-sadani-157723.jpg") ;
+body{
+    padding: 0;
+    margin: 0;
+}
+#sec1{
+    background-color: black;
+    color: white;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     width: 100vw;
     height: 100vh;
+}
+#end{
+    top:450px;
+    left: 20%;
+    color: #bdbdbd;
+    
+}
+#dev{
+    top: 200px;
+    
+}
+/*
+.backgrnd{
+   background: url("/img/bhushan-sadani-157723.jpg") ;
+    background-size: cover;
+    background-position: center center;
+    
     
     transition: .5s ease-in-out;
     
@@ -62,6 +83,7 @@ span{
     font-family: 'Roboto', sans-serif;
     
 }
+*/
 /*
 #frexx{
     display: flex;
